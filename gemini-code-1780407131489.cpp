@@ -6,11 +6,11 @@
 // ============================================================
 // 1. WiFi VA SUPABASE SOZLAMALARI
 // ============================================================
-const char* ssid     = "ERPPRO";
-const char* password = "11223344";
+const char* ssid     = "wi id";
+const char* password = "wi pas";
 
-const String SUPABASE_URL = "https://litohgphfmkomdhjiaop.supabase.co/rest/v1";
-const String SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxpdG9oZ3Bofm1rb21kaGppYW9wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkzNTk2NDAsImV4cCI6MjA5NDkzNTY0MH0.yssxa2TNLHOlF08tiDCj3aV_iHiYBLh8NobKV-gMJXA";
+const String SUPABASE_URL = "your url";
+const String SUPABASE_KEY = "your key";
 
 // ============================================================
 // 2. PIN KONFIGURATSIYASI
